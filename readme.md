@@ -10,7 +10,7 @@ This project was developed using javascript. ( Code includes jQuery )
 * The game sounds are inside the project directory
 
 ---
-![Memory Game](memory_game.gif)
+![Memory Game](./Memory_Game.gif)
 
 
 
